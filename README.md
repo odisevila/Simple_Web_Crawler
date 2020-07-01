@@ -8,3 +8,5 @@ How it works:
 3. Scrapes the html to find the paragraphs with the text
 4. Gets a summary of the text using tokenisation and scoring
 5. Returns a CSV file with Title, Full Text, Link, and Summary
+
+Done in around 2 hours for demonstration purposes so code is not perfect.
